@@ -117,13 +117,12 @@ span{
 
 @media only screen and (max-width: 767px) {
     .container{
-        margin-bottom: 50px;
         width: 100vw;
         padding: 10px;
         gap: 10px;
     }
     .items{
-        margin-bottom: 35px;
+        margin-bottom: 70px;
     }
     .item,.clearBtn{
         height: 70px;
