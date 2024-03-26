@@ -122,6 +122,9 @@ span{
         padding: 10px;
         gap: 10px;
     }
+    .items{
+        margin-bottom: 35px;
+    }
     .item,.clearBtn{
         height: 70px;
         width: 70px;
